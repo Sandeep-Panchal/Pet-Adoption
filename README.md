@@ -2,10 +2,13 @@
 
 Pet Adoption is competition conducted by HackerEarth team.
 
-Problem statement from HackerEarth compeition site itself:
+## Competition Link:
+https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/problems/
+
+## Problem statement from HackerEarth compeition site itself:
 "A leading pet adoption agency is planning to create a virtual tour experience for their customers showcasing all animals that are available in their shelter. To enable this tour experience, you are required to build a Machine Learning model that determines type and breed of the animal based on its physical attributes and other factors."
 
-Objective:
+## Objective:
 Predict breed_category and pet_catgory.
 
 # Approach:
